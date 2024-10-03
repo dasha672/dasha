@@ -1,18 +1,18 @@
 body {
     font-family: sans-serif;
-    background-color: rgb(0, 0, 0);
+    background-color: black;
 }
 
 header {
     justify-content: space-between;
-    padding:15px ;
+    padding: 15px;
     margin-bottom: 20px;
     display: flex;
 }
 
 .button {
     background-color: #36bbce;
-    color: rgb(255, 255, 255);
+    color: white;
     text-decoration: none;
     padding: 15px;
     font-size: 24px;
@@ -29,15 +29,15 @@ nav {
 
 .nav-link {
     font-size: 24px;
-    color: rgb(255, 255, 255);
+    color: white;
     text-decoration: none;
 }
 
 h1 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 36px;
-    margin-top:40px ;
+    margin-top: 40px;
     margin-bottom: 45px;
 }
 
@@ -54,14 +54,14 @@ p {
 
 article {
     background-color: white;
-    padding:15px 45px 30px 45px ;
+    padding: 15px 45px 30px 45px;
     width: 400px;
-    margin:20px ;
+    margin: 20px;
 }
 
 .article-but {
     text-decoration: none;
-    background-color: rgb(255, 251, 0);
+    background-color: blue;
     color: black;
     font-size: 24px;
     text-align: center;
@@ -69,13 +69,14 @@ article {
 }
 
 footer {
-    background-color: rgb(154, 85, 175);
-    padding:70px 0x 15px 14px ;
-    display: flex
+    background-color: white;
+    padding: 70px 0px 15px 14px;
+    display: flex;
+    background-color: lightblue;
 }
 
 footer a {
-    margin-right: 50px;
+    margin-right: 176px;
 }
 
 footer p {
